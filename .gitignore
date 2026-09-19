@@ -9,3 +9,5 @@ myenv/
 backend/.envec2-fullstack-key.pem
 *:Zone.Identifier
 *.pem
+
+k8s/secret.yaml
